@@ -1,5 +1,5 @@
-Airplane-IoT-aquarium-management/.vscode/
-Airplane-IoT-aquarium-management/工作区文件.code-workspace
+.vscode/
+Airplane-IoT.code-workspace
 IoT_sensor_reading/.idea/
 IoT_sensor_reading/__pycache__/
 IoT_sensor_reading/SensorReading.iml
